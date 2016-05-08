@@ -1,4 +1,4 @@
-# Hirvikoski: Metriikat käytänteiden tukena ohjelmiston laadun arvioimisessa
+# Kasper Hirvikoski: Metriikat käytänteiden tukena ohjelmiston laadun arvioimisessa
 ## Referaatti
 Hirvikoski kuvaa tutkielmassaan neljää erilaista metriikkaa, joilla pyritään tukemaan ohjelmistokehityksen 
 laadunvarmistamista kehitystyön aikana. Kukin näistä menetelmistä tarkastelee koodia eri näkökulmista; tavoitteena on 
